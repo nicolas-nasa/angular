@@ -1,0 +1,51 @@
+
+
+<div class="box">
+    <div class="container">
+  
+      <header>
+        <nav>
+          <ul class="nav">
+            <a routerLink="/register" class="inactive-nav">01</a>
+            <a routerLink="/confirmation" class="inactive-i-nav">></a>
+            <a routerLink="/confirmation" class="inactive-nav">02</a>
+            <a routerLink="/terms" class="inactive-i-nav">></a>
+            <a routerLink="/terms" class="active-nav">03</a>
+            <a class="inactive-i-nav-block">></a>
+            <a class="inactive-nav-block">04</a>
+          </ul>
+        </nav>
+      </header>
+  
+      <h1 i18n class="title">Terms and conditions</h1>
+  
+      <div class="terms-box">
+          <div i18n class="terms" (scroll)="onScroll()" id="1">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Et netus et malesuada fames ac turpis egestas. Magna ac placerat vestibulum lectus mauris ultrices eros in. Tellus at urna condimentum mattis pellentesque id nibh tortor. Enim eu turpis egestas pretium aenean pharetra magna. Enim eu turpis egestas pretium aenean pharetra magna ac. Adipiscing enim eu turpis egestas pretium aenean pharetra magna ac. Dapibus ultrices in iaculis nunc sed augue lacus. Et malesuada fames ac turpis egestas maecenas pharetra convallis. Id diam maecenas ultricies mi eget mauris pharetra et ultrices. Arcu non odio euismod lacinia at quis risus sed. Auctor eu augue ut lectus arcu bibendum at varius. Orci dapibus ultrices in iaculis nunc. Eu nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Aliquam vestibulum morbi blandit cursus risus at ultrices. Urna cursus eget nunc scelerisque viverra mauris. Consequat id porta nibh venenatis cras sed. Senectus et netus et malesuada fames ac turpis egestas maecenas.
+            Feugiat sed lectus vestibulum mattis ullamcorper velit. Purus ut faucibus pulvinar elementum integer enim neque volutpat. Adipiscing elit duis tristique sollicitudin. Facilisis volutpat est velit egestas dui id. Dui faucibus in ornare quam viverra orci sagittis eu. Vestibulum lorem sed risus ultricies tristique nulla aliquet enim. Sit amet est placerat in egestas erat imperdiet. Sed elementum tempus egestas sed sed risus pretium quam vulputate. Venenatis a condimentum vitae sapien pellentesque habitant morbi tristique. Neque convallis a cras semper auctor. Eget velit aliquet sagittis id consectetur purus ut. Dictum non consectetur a erat nam at lectus urna duis.
+            
+            Vitae turpis massa sed elementum. Ut ornare lectus sit amet est placerat in. Massa tincidunt dui ut ornare lectus sit. Vulputate ut pharetra sit amet aliquam id. Tellus molestie nunc non blandit. Cursus euismod quis viverra nibh cras pulvinar mattis nunc. Est placerat in egestas erat imperdiet sed euismod nisi. Condimentum id venenatis a condimentum vitae. Placerat duis ultricies lacus sed turpis tincidunt. Bibendum at varius vel pharetra vel turpis nunc eget. Cursus vitae congue mauris rhoncus aenean vel elit scelerisque. Vel fringilla est ullamcorper eget nulla facilisi etiam. Pellentesque eu tincidunt tortor aliquam. Turpis massa tincidunt dui ut ornare lectus sit. Diam phasellus vestibulum lorem sed. Potenti nullam ac tortor vitae purus faucibus ornare suspendisse sed. Aliquam faucibus purus in massa tempor nec feugiat nisl pretium.
+            
+            Proin sed libero enim sed faucibus turpis in eu mi. Maecenas volutpat blandit aliquam etiam. Ac feugiat sed lectus vestibulum mattis ullamcorper velit. Adipiscing elit duis tristique sollicitudin nibh. Dictum non consectetur a erat nam at. A scelerisque purus semper eget duis at tellus at. Et malesuada fames ac turpis. Vulputate eu scelerisque felis imperdiet. Eu lobortis elementum nibh tellus molestie nunc non. Massa vitae tortor condimentum lacinia quis vel eros donec ac.
+            
+            Dui vivamus arcu felis bibendum ut tristique et egestas quis. Nibh tellus molestie nunc non blandit massa enim nec. Ultrices eros in cursus turpis. Suscipit adipiscing bibendum est ultricies integer. Aliquam ut porttitor leo a diam sollicitudin. Viverra mauris in aliquam sem fringilla ut morbi. Lobortis feugiat vivamus at augue eget arcu dictum varius duis. A scelerisque purus semper eget duis at tellus at. Vestibulum lorem sed risus ultricies tristique nulla aliquet enim. Morbi quis commodo odio aenean sed adipiscing. Vivamus arcu felis bibendum ut tristique et egestas quis. Tortor id aliquet lectus proin nibh nisl. Nisi vitae suscipit tellus mauris a. Sed tempus urna et pharetra pharetra massa massa. Elit pellentesque habitant morbi tristique senectus. Dolor morbi non arcu risus quis varius quam quisque id. Cursus eget nunc scelerisque viverra mauris. Enim sed faucibus turpis in eu.
+          </div>
+      </div>      
+
+      <div [ngClass]="{
+        'effect' : result === true,
+        'noeffect' : result === false
+      }"></div>
+      
+      
+      <button i18n routerLink="/confirmation" class="button-decline">Decline</button>
+      <button i18n routerLink="/invite" [disabled]="resultB" [ngClass]="{
+        'button-disable' : resultB === true,
+        'button-accept' : resultB === false
+      }">Accept</button>
+    </div>
+</div>
+
+
+
+    

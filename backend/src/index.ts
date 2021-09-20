@@ -1,0 +1,17 @@
+import express from 'express';
+import routes from './routes';
+import cors from 'cors';
+import { createConnection } from 'typeorm';
+
+const app = express();
+
+app.use(cors());
+
+app.use(express.json());
+app.use(express.urlencoded());
+
+
+
+app.use(routes);
+
+app.listen(3333);

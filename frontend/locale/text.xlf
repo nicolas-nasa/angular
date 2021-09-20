@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="5731669975084183658" datatype="html">
+        <source>Confirm your email</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/confirmation/confirmation.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6723462976647277699" datatype="html">
+        <source> We sent a code to &quot;<x id="INTERPOLATION" equiv-text="{{email}}"/>&quot;, please type it below. if this is not your email, you can <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;change-email&quot; routerLink=&quot;&quot;&gt;"/>change it here.<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/confirmation/confirmation.component.html</context>
+          <context context-type="linenumber">20,25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3972495142175860210" datatype="html">
+        <source>Resend code</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/confirmation/confirmation.component.html</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9178182467454450952" datatype="html">
+        <source>Confirm</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/confirmation/confirmation.component.html</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8641986302884963192" datatype="html">
+        <source>Invite your friends</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/invite/invite.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4768749765465246664" datatype="html">
+        <source>Email</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/invite/invite.component.html</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/invite/invite.component.html</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/invite/invite.component.html</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/register/register.component.html</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4563965495368336177" datatype="html">
+        <source>Skip</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/invite/invite.component.html</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4976965009176595392" datatype="html">
+        <source>Send invites</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/invite/invite.component.html</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="192254899258250187" datatype="html">
+        <source> Create your account</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/register/register.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8953033926734869941" datatype="html">
+        <source>Name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/register/register.component.html</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1431416938026210429" datatype="html">
+        <source>Password</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/register/register.component.html</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5907476126990913307" datatype="html">
+        <source>Create account</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/register/register.component.html</context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2637040957358356533" datatype="html">
+        <source>Terms and conditions</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/terms/terms.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="458754736300041894" datatype="html">
+        <source> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Et netus et malesuada fames ac turpis egestas. Magna ac placerat vestibulum lectus mauris ultrices eros in. Tellus at urna condimentum mattis pellentesque id nibh tortor. Enim eu turpis egestas pretium aenean pharetra magna. Enim eu turpis egestas pretium aenean pharetra magna ac. Adipiscing enim eu turpis egestas pretium aenean pharetra magna ac. Dapibus ultrices in iaculis nunc sed augue lacus. Et malesuada fames ac turpis egestas maecenas pharetra convallis. Id diam maecenas ultricies mi eget mauris pharetra et ultrices. Arcu non odio euismod lacinia at quis risus sed. Auctor eu augue ut lectus arcu bibendum at varius. Orci dapibus ultrices in iaculis nunc. Eu nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Aliquam vestibulum morbi blandit cursus risus at ultrices. Urna cursus eget nunc scelerisque viverra mauris. Consequat id porta nibh venenatis cras sed. Senectus et netus et malesuada fames ac turpis egestas maecenas. Feugiat sed lectus vestibulum mattis ullamcorper velit. Purus ut faucibus pulvinar elementum integer enim neque volutpat. Adipiscing elit duis tristique sollicitudin. Facilisis volutpat est velit egestas dui id. Dui faucibus in ornare quam viverra orci sagittis eu. Vestibulum lorem sed risus ultricies tristique nulla aliquet enim. Sit amet est placerat in egestas erat imperdiet. Sed elementum tempus egestas sed sed risus pretium quam vulputate. Venenatis a condimentum vitae sapien pellentesque habitant morbi tristique. Neque convallis a cras semper auctor. Eget velit aliquet sagittis id consectetur purus ut. Dictum non consectetur a erat nam at lectus urna duis. Vitae turpis massa sed elementum. Ut ornare lectus sit amet est placerat in. Massa tincidunt dui ut ornare lectus sit. Vulputate ut pharetra sit amet aliquam id. Tellus molestie nunc non blandit. Cursus euismod quis viverra nibh cras pulvinar mattis nunc. Est placerat in egestas erat imperdiet sed euismod nisi. Condimentum id venenatis a condimentum vitae. Placerat duis ultricies lacus sed turpis tincidunt. Bibendum at varius vel pharetra vel turpis nunc eget. Cursus vitae congue mauris rhoncus aenean vel elit scelerisque. Vel fringilla est ullamcorper eget nulla facilisi etiam. Pellentesque eu tincidunt tortor aliquam. Turpis massa tincidunt dui ut ornare lectus sit. Diam phasellus vestibulum lorem sed. Potenti nullam ac tortor vitae purus faucibus ornare suspendisse sed. Aliquam faucibus purus in massa tempor nec feugiat nisl pretium. Proin sed libero enim sed faucibus turpis in eu mi. Maecenas volutpat blandit aliquam etiam. Ac feugiat sed lectus vestibulum mattis ullamcorper velit. Adipiscing elit duis tristique sollicitudin nibh. Dictum non consectetur a erat nam at. A scelerisque purus semper eget duis at tellus at. Et malesuada fames ac turpis. Vulputate eu scelerisque felis imperdiet. Eu lobortis elementum nibh tellus molestie nunc non. Massa vitae tortor condimentum lacinia quis vel eros donec ac. Dui vivamus arcu felis bibendum ut tristique et egestas quis. Nibh tellus molestie nunc non blandit massa enim nec. Ultrices eros in cursus turpis. Suscipit adipiscing bibendum est ultricies integer. Aliquam ut porttitor leo a diam sollicitudin. Viverra mauris in aliquam sem fringilla ut morbi. Lobortis feugiat vivamus at augue eget arcu dictum varius duis. A scelerisque purus semper eget duis at tellus at. Vestibulum lorem sed risus ultricies tristique nulla aliquet enim. Morbi quis commodo odio aenean sed adipiscing. Vivamus arcu felis bibendum ut tristique et egestas quis. Tortor id aliquet lectus proin nibh nisl. Nisi vitae suscipit tellus mauris a. Sed tempus urna et pharetra pharetra massa massa. Elit pellentesque habitant morbi tristique senectus. Dolor morbi non arcu risus quis varius quam quisque id. Cursus eget nunc scelerisque viverra mauris. Enim sed faucibus turpis in eu. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/terms/terms.component.html</context>
+          <context context-type="linenumber">24,32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8116175184239166510" datatype="html">
+        <source>Decline</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/terms/terms.component.html</context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8905995985388209337" datatype="html">
+        <source>Accept</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/terms/terms.component.html</context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

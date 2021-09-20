@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "Gotham";
+    src: local("Gotham"), url(./assets/fonts/gotham.otf) format("truetype");
+}
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    list-style: none;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: black;
+    
+
+    font-family: "Gotham", Arial, Helvetica, sans-serif;
+}
+
+body{
+    background: #F5F7FA;
+}
+
